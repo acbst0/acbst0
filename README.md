@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/acbst0/acbst0/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/acbst0/acbst0/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
